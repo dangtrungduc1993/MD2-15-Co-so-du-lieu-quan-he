@@ -1,0 +1,19 @@
+Thao tác với CSDL:
+Tạo CSDL : CREATE DATABASE databasename;
+Xóa CSDL: DROP DATABASE databasename; 
+
+
+Thao tác với bảng :
+Tạo bảng : CREATE TABLE table_name (
+column1 datatype,
+column2 datatype,
+column3 datatype,
+....
+); 
+Xóa bảng : DROP TABLE table_name;
+
+
+Thao tác với dữ liệu :
+Truy vấn dữ liệu : SELECT column1, column2, ...
+		   FROM table_name;
+
